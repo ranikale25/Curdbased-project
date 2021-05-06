@@ -1,0 +1,10 @@
+#bg
+    {
+        
+    background-image:url('{%static "image/firm.jpg" %}') no-repeat center center fixed; 
+    background-repeat:no-repeat;
+    background-size: 500px 800px;
+    background-position: top;
+    background-attachment: fixed;
+}
+
